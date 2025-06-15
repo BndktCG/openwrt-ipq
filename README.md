@@ -2,7 +2,7 @@
 
 This is a fork to include configs for my device. edit config file in
 
-openwrt-ipq/nss-setup/config-nss.seed
+[openwrt-ipq/nss-setup/config-nss.seed](https://github.com/BndktCG/openwrt-ipq/blob/main-nss/nss-setup/config-nss.seed)
 
 then proceed as normal. have a look if new commits have been done to the config file.
 
